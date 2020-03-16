@@ -8,5 +8,5 @@
 * [Text-Visualization](./text-visulization/text-visualization.ipynb)    ★Dynamic bar chart with matplotlib!!
 * [Politics Analysis](./Politics%20Analysis/Politics%20Analasis.ipynb)
 * [Forggy parliament Analysis Final](./Politics%20Analysis/Politics%20Analasis.ipynb) ★BERT and PCA for artical!!
-* [Conference Cxperience](./MD.pdf)
-* [Paper](./論文報告attention.pdf)
+* [Conference Experience](./DM.pdf)
+* [Paper Reading](./論文報告attention.pdf)
